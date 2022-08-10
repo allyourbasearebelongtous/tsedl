@@ -1,0 +1,9 @@
+channels:
+  - defaults
+dependencies:
+  - ffmpeg
+  - pandas
+  - lxml
+  - pip:
+      - ffmpeg-python
+      - watchfiles

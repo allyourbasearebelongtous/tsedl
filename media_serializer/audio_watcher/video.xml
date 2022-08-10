@@ -1,0 +1,44 @@
+<VantagePlayList>
+  <Name>leah</Name>
+  <File uuid="625b9a89-e6ba-4a07-b8e4-b60c7168d537" path="/Users/leahlerner/Movies/Media/sample-mp4-file.mp4"/>
+  <File uuid="90980f08-212c-4319-b3f7-71aa0498a224" path="/Users/leahlerner/Movies/Media/earth.mp4"/>
+  <File uuid="db18aeb2-f172-421d-a617-44d7436245fb" path="/Users/leahlerner/Movies/Media/earth copy.mp4"/>
+  <EDL>
+    <Edit type="file" sequence="0" timecode_in="0.000000" timecode_out="125.952" file="625b9a89-e6ba-4a07-b8e4-b60c7168d537">
+      <ChannelMap>
+        <Channel>
+          <Source>1</Source>
+          <Output>1</Output>
+        </Channel>
+        <Channel>
+          <Source>2</Source>
+          <Output>2</Output>
+        </Channel>
+      </ChannelMap>
+    </Edit>
+    <Edit type="file" sequence="0" timecode_in="0.000000" timecode_out="183.36" file="90980f08-212c-4319-b3f7-71aa0498a224">
+      <ChannelMap>
+        <Channel>
+          <Source>1</Source>
+          <Output>1</Output>
+        </Channel>
+        <Channel>
+          <Source>2</Source>
+          <Output>2</Output>
+        </Channel>
+      </ChannelMap>
+    </Edit>
+    <Edit type="file" sequence="0" timecode_in="0.000000" timecode_out="183.36" file="db18aeb2-f172-421d-a617-44d7436245fb">
+      <ChannelMap>
+        <Channel>
+          <Source>1</Source>
+          <Output>1</Output>
+        </Channel>
+        <Channel>
+          <Source>2</Source>
+          <Output>2</Output>
+        </Channel>
+      </ChannelMap>
+    </Edit>
+  </EDL>
+</VantagePlayList>
